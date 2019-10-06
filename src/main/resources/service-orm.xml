@@ -49,7 +49,7 @@
 		value="jdbc:mysql://localhost/appemprestimos?createDatabaseIfNotExist=true&amp;characterEncoding=UTF-8&amp;useTimezone=true&amp;serverTimezone=UTC" />
 		
 		<property name="username" value="root" />
-		<property name="password" value="root" />
+		<property name="password" value="root00" />
 	</bean>
 	
 
